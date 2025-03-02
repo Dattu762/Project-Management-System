@@ -1,4 +1,6 @@
-=>Designed and developed a web application providing an environment for teams to collaborate on projects. 
+=> Technologies used:React.js, Spring Boot, Spring JPA, MySQL, RESTful APIs, Spring Starter Mail, Razorpay API
+
+=>Designed and developed a Backend System for  providing an environment for teams to collaborate on projects. 
 Team leads can create projects, add team members, and assign tasks, while team members can interact 
 through a dedicated chat section and leave comments on tasks.
 
@@ -8,3 +10,4 @@ frontend and backend services.
 
 =>Implemented Spring Starter Mail to invite team members via email and integrated Razorpay API to handle
 subscription-based access to premium project features.
+
